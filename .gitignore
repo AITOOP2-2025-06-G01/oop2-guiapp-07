@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+audio/whisper-base-mlx/
+audio/whisper-large-v3-turbo/
+audio/python-audio-output.wav
+audio/.DS_Store
+audio/transcripts
+.DS_Store
+python-audio-output.wav
+transcripts
