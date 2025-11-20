@@ -215,3 +215,9 @@ audio/transcripts
 .DS_Store
 python-audio-output.wav
 transcripts
+whisper-base-mlx/
+whisper-large-v3-turbo/
+
+
+
+
